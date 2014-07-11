@@ -1,16 +1,16 @@
-#kwaai-mongo
+#kwaai-schema
 
-Node helpers for mongoDB
+Json schema helpers
 
 ##Description
-A set of helper tools to assist in working with mongo in Node
+A set of helper tools to assist in working with json schema in node.
 
 ##API
-###connectToCollection(name,connectionString,callback)
+###validateToSchema(document,schema)
 
 
-###connectToCollections(connectionString,callback,collectionName1,collectionName2,...)
+###coerceToSchema(document,schema)
 
 
-###buildQueryFromOptions(query,options)
+###mergeSchemaLinks(document,schema)
 
