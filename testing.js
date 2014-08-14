@@ -11,7 +11,7 @@ var schema={
 }
 
 var doc={
-   name:"abc",
+   name:"ab5%%c",
    description:"test"
 }
 var invalid=kwaaiSchema.validateToSchema(doc,schema);
