@@ -1,6 +1,6 @@
 {
   "name": "kwaai-schema",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Json schema helpers",
   "main": "./index.js",
   "author": {
@@ -12,9 +12,9 @@
     "url": "git://github.com/martinza78/kwaai-schema"
   },
   "dependencies": {
-      "JSONPath": "~0.10.0",
-      "deepcopy": "~0.3.3",
-      "tv4": "~1.1.0",
+      "JSONPath": "0.10.0",
+      "deepcopy": "0.3.3",
+      "tv4": "1.1.0",
       "mongodb":"1.4.9"
   },
   "engines": {
@@ -22,6 +22,6 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/martinza78/kwaai-schema",
-  "_id": "kwaai-schema@0.0.4",
+  "_id": "kwaai-schema@0.0.5",
   "_from": "kwaai-schema@"
 }
