@@ -15,7 +15,7 @@
       "JSONPath": "0.10.0",
       "deepcopy": "0.3.3",
       "tv4": "1.1.0",
-      "mongodb":"1.4.9"
+      "mongodb":"1.4.12"
   },
   "engines": {
     "node": ">= 0.10.0"
