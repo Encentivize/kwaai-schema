@@ -29,11 +29,12 @@ var doc4={
 var doc5={
     email:"test@test.com"
 }
+var invalid=kwaaiSchema.validateToSchema(null,schema);
 
 console.log(kwaaiSchema.validateToSchema(null,schema))
-console.log(kwaaiSchema.validateToSchema(doc,null))
-console.log(kwaaiSchema.validateToSchema(doc,schema))
-console.log(kwaaiSchema.validateToSchema(doc2,schema))
-console.log(kwaaiSchema.validateToSchema(doc3,schema))
-console.log(kwaaiSchema.validateToSchema(doc4,schema))
-console.log(kwaaiSchema.validateToSchema(doc5,schema))
+//console.log(kwaaiSchema.validateToSchema(doc,null))
+//console.log(kwaaiSchema.validateToSchema(doc,schema))
+//console.log(kwaaiSchema.validateToSchema(doc2,schema))
+//console.log(kwaaiSchema.validateToSchema(doc3,schema))
+//console.log(kwaaiSchema.validateToSchema(doc4,schema))
+//console.log(kwaaiSchema.validateToSchema(doc5,schema))

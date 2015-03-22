@@ -1,15 +1,15 @@
 {
   "name": "kwaai-schema",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Json schema helpers",
   "main": "./index.js",
   "author": {
     "name": "Martin Naude",
-    "email": "martin@entelect.co.za"
+    "email": "martin@encentivize.co.za"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/martinza78/kwaai-schema"
+    "url": "git://github.com/Encentivize/kwaai-schema"
   },
   "dependencies": {
       "JSONPath": "0.10.0",
@@ -21,7 +21,7 @@
     "node": ">= 0.10.0"
   },
   "license": "MIT",
-  "homepage": "https://github.com/martinza78/kwaai-schema",
-  "_id": "kwaai-schema@0.0.6",
+  "homepage": "https://github.com/Encentivize/kwaai-schema",
+  "_id": "kwaai-schema@0.0.7",
   "_from": "kwaai-schema@"
 }
