@@ -1,5 +1,26 @@
 var kwaaiSchema=require('./lib/schema.js');
 
+var nullSchema={
+    type:"object",
+    properties:{
+        value:{
+            "type":["string","null"],
+            format:"email"
+        }
+
+    }
+
+}
+
+var nullDoc={
+    value:"a"
+}
+
+
+console.log(kwaaiSchema.validateToSchema(nullDoc,nullSchema))
+
+return;
+
 var schema={
     $schema: "http://json-schema.org/draft-04/schema#",
     title: "test",

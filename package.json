@@ -1,6 +1,6 @@
 {
   "name": "kwaai-schema",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Json schema helpers",
   "main": "./index.js",
   "author": {
@@ -22,6 +22,6 @@
   },
   "license": "MIT",
   "homepage": "https://github.com/Encentivize/kwaai-schema",
-  "_id": "kwaai-schema@0.0.7",
+  "_id": "kwaai-schema@0.0.8",
   "_from": "kwaai-schema@"
 }
