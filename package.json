@@ -1,6 +1,6 @@
 {
   "name": "kwaai-schema",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Json schema helpers",
   "main": "./index.js",
   "author": {
@@ -14,14 +14,14 @@
   "dependencies": {
       "JSONPath": "0.10.0",
       "deepcopy": "0.3.3",
-      "tv4": "1.1.0",
-      "mongodb":"1.4.12"
+      "tv4": "1.1.9",
+      "mongodb":"2.0.46"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
   "license": "MIT",
   "homepage": "https://github.com/Encentivize/kwaai-schema",
-  "_id": "kwaai-schema@0.0.8",
+  "_id": "kwaai-schema@0.0.9",
   "_from": "kwaai-schema@"
 }
